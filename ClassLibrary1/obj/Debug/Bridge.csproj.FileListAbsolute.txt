@@ -1,0 +1,6 @@
+D:\Курс_II\ООАиП\Bridge\ClassLibrary1\bin\Debug\ClassLibrary1.dll
+D:\Курс_II\ООАиП\Bridge\ClassLibrary1\bin\Debug\ClassLibrary1.pdb
+D:\Курс_II\ООАиП\Bridge\ClassLibrary1\obj\Debug\Bridge.csproj.AssemblyReference.cache
+D:\Курс_II\ООАиП\Bridge\ClassLibrary1\obj\Debug\Bridge.csproj.CoreCompileInputs.cache
+D:\Курс_II\ООАиП\Bridge\ClassLibrary1\obj\Debug\ClassLibrary1.dll
+D:\Курс_II\ООАиП\Bridge\ClassLibrary1\obj\Debug\ClassLibrary1.pdb
