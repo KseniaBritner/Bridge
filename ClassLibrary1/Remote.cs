@@ -8,10 +8,10 @@ namespace ClassLibrary1
 {
     public class Remote
     {
-        protected RemoteImplementor implementor { get; private set; }
+        protected IRemoteImplementor implementor { get; private set; }
         public int Power { get; set; }
         public int Mode { get; set; }
-        public Remote(RemoteImplementor implementor)
+        public Remote(IRemoteImplementor implementor)
         {
             this.implementor = implementor;
         }

@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace ClassLibrary1
 {
-    public class TV : RemoteImplementor
+    public class TV : IRemoteImplementor
     {
         public void On()
         {

@@ -28,7 +28,7 @@ namespace ClassLibrary1
                 Console.WriteLine($"Режим {index} не найден");
             }
         }
-        public RemoteT(RemoteImplementor implementor) : base(implementor)
+        public RemoteT(IRemoteImplementor implementor) : base(implementor)
         {
             if (implementor == null)
             {
